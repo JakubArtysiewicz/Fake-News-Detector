@@ -1,0 +1,21 @@
+text,true_label,predicted_label,score
+NASA announces discovery of water ice in newly mapped lunar regions,REAL,FAKE,0.9734899997711182
+World Health Organization confirms global decline in measles cases,REAL,REAL,0.9992693066596985
+Scientists develop battery that fully charges in under five minutes,REAL,FAKE,0.9959955215454102
+UN releases report on record-breaking renewable energy growth in 2024,REAL,REAL,0.9931933283805847
+Study shows coffee consumption linked to improved memory retention,REAL,FAKE,0.9902612566947937
+New Zealand bans commercial mining in all national parks,REAL,REAL,0.9105499386787415
+Researchers detect signals from exoplanet atmosphere using new telescope,REAL,FAKE,0.9806792736053467
+Japan launches satellite aimed at tracking marine pollution,REAL,REAL,0.9985993504524231
+European Union approves funding for AI ethics research initiative,REAL,REAL,0.9987046718597412
+"Archaeologists uncover 3,000-year-old temple in northern Peru",REAL,FAKE,0.9231776595115662
+Scientists confirm that Earth will stop rotating by 2028,FAKE,FAKE,0.9957783222198486
+Government secretly implants microchips into all new passports,FAKE,FAKE,0.9974806904792786
+NASA hides evidence of second moon spotted behind Earth,FAKE,FAKE,0.9970930814743042
+Study claims that chocolate cures all forms of cancer,FAKE,FAKE,0.9985089898109436
+Ocean suddenly turns purple due to unknown underwater explosion,FAKE,FAKE,0.9981130361557007
+New smartphone emits radiation strong enough to melt metal objects,FAKE,FAKE,0.9982749223709106
+Scientists discover that humans only use 5% of their brains,FAKE,FAKE,0.9983761310577393
+Global internet shutdown scheduled by world governments for 2025,FAKE,REAL,0.9840825796127319
+Researchers announce successful teleportation of a living cat,FAKE,FAKE,0.9977571368217468
+World leaders agree to replace all schools with virtual reality pods by 2030,FAKE,REAL,0.994134247303009

@@ -1,0 +1,101 @@
+text,true_label,predicted_label,score
+Company announces pill that instantly teaches any language (report 1),FAKE,FAKE,0.9812774062156677
+WHO approves new malaria vaccine for global distribution (report 2),REAL,REAL,0.9987764954566956
+Scientists develop biodegradable alternative to traditional plastic (report 3),REAL,FAKE,0.9877148866653442
+World’s largest offshore wind farm begins full operation (report 4),REAL,REAL,0.9998575448989868
+Researchers say they have found a portal to a parallel universe (report 5),FAKE,FAKE,0.997349739074707
+Ocean turns purple overnight due to mysterious phenomenon (report 6),FAKE,FAKE,0.9960480332374573
+Study shows humans can survive without sleep for 40 days (report 7),FAKE,FAKE,0.9667742252349854
+New study links air pollution to increased heart disease risks (report 8),REAL,FAKE,0.8969776630401611
+UN releases new report on global climate migration trends (report 9),REAL,REAL,0.7001349329948425
+World’s largest offshore wind farm begins full operation (report 10),REAL,REAL,0.9998714923858643
+Scientists develop biodegradable alternative to traditional plastic (report 11),REAL,REAL,0.9078765511512756
+Company announces pill that instantly teaches any language (report 12),FAKE,FAKE,0.9736740589141846
+New study links air pollution to increased heart disease risks (report 13),REAL,REAL,0.8585842251777649
+Ocean turns purple overnight due to mysterious phenomenon (report 14),FAKE,FAKE,0.9954240918159485
+Archaeologists uncover ancient temple in South America (report 15),REAL,FAKE,0.9965106844902039
+World’s largest offshore wind farm begins full operation (report 16),REAL,REAL,0.9998594522476196
+City government plans to replace all streetlights with glow-in-the-dark plants (report 17),FAKE,FAKE,0.9984887838363647
+Ocean turns purple overnight due to mysterious phenomenon (report 18),FAKE,FAKE,0.9957139492034912
+Study shows humans can survive without sleep for 40 days (report 19),FAKE,REAL,0.9969155788421631
+Company announces pill that instantly teaches any language (report 20),FAKE,REAL,0.9504861831665039
+Archaeologists uncover ancient temple in South America (report 21),REAL,FAKE,0.9963788390159607
+Study shows humans can survive without sleep for 40 days (report 22),FAKE,REAL,0.9969236254692078
+Time traveler from 2080 reportedly appears in downtown Tokyo (report 23),FAKE,FAKE,0.9989663362503052
+Researchers say they have found a portal to a parallel universe (report 24),FAKE,REAL,0.746015727519989
+Company announces pill that instantly teaches any language (report 25),FAKE,FAKE,0.9484732747077942
+Global oil prices rise after unexpected supply disruption (report 26),REAL,REAL,0.999896764755249
+Company announces pill that instantly teaches any language (report 27),FAKE,FAKE,0.5940359830856323
+"Major earthquake strikes coastal region, causing widespread damage (report 28)",REAL,REAL,0.9993281364440918
+Study shows humans can survive without sleep for 40 days (report 29),FAKE,REAL,0.9788845777511597
+Ocean turns purple overnight due to mysterious phenomenon (report 30),FAKE,FAKE,0.9932752847671509
+WHO approves new malaria vaccine for global distribution (report 31),REAL,REAL,0.9998530149459839
+Robots gain legal rights in several countries after secret summit (report 32),FAKE,REAL,0.9988225102424622
+UN releases new report on global climate migration trends (report 33),REAL,FAKE,0.9815417528152466
+UN releases new report on global climate migration trends (report 34),REAL,FAKE,0.9764828681945801
+WHO approves new malaria vaccine for global distribution (report 35),REAL,REAL,0.9982520937919617
+Ocean turns purple overnight due to mysterious phenomenon (report 36),FAKE,FAKE,0.9978041052818298
+World’s largest offshore wind farm begins full operation (report 37),REAL,REAL,0.9993347525596619
+International Space Station crew completes emergency repair (report 38),REAL,FAKE,0.8736608028411865
+Company announces pill that instantly teaches any language (report 39),FAKE,FAKE,0.9740105271339417
+UN releases new report on global climate migration trends (report 40),REAL,FAKE,0.7833637595176697
+NASA announces discovery of water ice beneath lunar surface (report 41),REAL,FAKE,0.9974440336227417
+Archaeologists uncover ancient temple in South America (report 42),REAL,FAKE,0.9973351359367371
+UN releases new report on global climate migration trends (report 43),REAL,FAKE,0.9287301898002625
+World leaders agree to build giant shield around Earth to stop solar flares (report 44),FAKE,REAL,0.9981410503387451
+City government plans to replace all streetlights with glow-in-the-dark plants (report 45),FAKE,FAKE,0.9984725117683411
+New smartphone app claims to let users read minds (report 46),FAKE,REAL,0.7983049750328064
+Archaeologists uncover ancient temple in South America (report 47),REAL,FAKE,0.9972721934318542
+Study shows humans can survive without sleep for 40 days (report 48),FAKE,FAKE,0.8966724276542664
+New smartphone app claims to let users read minds (report 49),FAKE,FAKE,0.8559542298316956
+Study shows humans can survive without sleep for 40 days (report 50),FAKE,FAKE,0.927953839302063
+Global oil prices rise after unexpected supply disruption (report 51),REAL,REAL,0.9998821020126343
+Archaeologists uncover ancient temple in South America (report 52),REAL,FAKE,0.9978380799293518
+Global oil prices rise after unexpected supply disruption (report 53),REAL,REAL,0.9998949766159058
+City government plans to replace all streetlights with glow-in-the-dark plants (report 54),FAKE,FAKE,0.9979538917541504
+Scientists develop biodegradable alternative to traditional plastic (report 55),REAL,FAKE,0.9701024889945984
+New smartphone app claims to let users read minds (report 56),FAKE,REAL,0.6447000503540039
+Time traveler from 2080 reportedly appears in downtown Tokyo (report 57),FAKE,FAKE,0.9990290403366089
+International Space Station crew completes emergency repair (report 58),REAL,REAL,0.8733198046684265
+New study links air pollution to increased heart disease risks (report 59),REAL,FAKE,0.9739174246788025
+WHO approves new malaria vaccine for global distribution (report 60),REAL,REAL,0.9996128678321838
+Study shows humans can survive without sleep for 40 days (report 61),FAKE,FAKE,0.9186252951622009
+New study links air pollution to increased heart disease risks (report 62),REAL,FAKE,0.6493692994117737
+UN releases new report on global climate migration trends (report 63),REAL,FAKE,0.9484413266181946
+Scientists develop biodegradable alternative to traditional plastic (report 64),REAL,FAKE,0.7770292162895203
+"Major earthquake strikes coastal region, causing widespread damage (report 65)",REAL,REAL,0.895677387714386
+Scientists confirm existence of invisible flying reptiles in the Himalayas (report 66),FAKE,FAKE,0.9949280023574829
+Scientists confirm existence of invisible flying reptiles in the Himalayas (report 67),FAKE,FAKE,0.9907969236373901
+Global oil prices rise after unexpected supply disruption (report 68),REAL,REAL,0.9998965263366699
+World’s largest offshore wind farm begins full operation (report 69),REAL,REAL,0.9997575879096985
+Global oil prices rise after unexpected supply disruption (report 70),REAL,REAL,0.9998928308486938
+"Major earthquake strikes coastal region, causing widespread damage (report 71)",REAL,FAKE,0.662505030632019
+Scientists confirm existence of invisible flying reptiles in the Himalayas (report 72),FAKE,FAKE,0.9950253367424011
+Global oil prices rise after unexpected supply disruption (report 73),REAL,REAL,0.9998818635940552
+Robots gain legal rights in several countries after secret summit (report 74),FAKE,REAL,0.9992258548736572
+UN releases new report on global climate migration trends (report 75),REAL,FAKE,0.9933105707168579
+International Space Station crew completes emergency repair (report 76),REAL,FAKE,0.9881595373153687
+World’s largest offshore wind farm begins full operation (report 77),REAL,REAL,0.9980095028877258
+Researchers say they have found a portal to a parallel universe (report 78),FAKE,FAKE,0.9982359409332275
+World leaders agree to build giant shield around Earth to stop solar flares (report 79),FAKE,FAKE,0.6092855334281921
+City government plans to replace all streetlights with glow-in-the-dark plants (report 80),FAKE,FAKE,0.99842369556427
+New smartphone app claims to let users read minds (report 81),FAKE,FAKE,0.9944878220558167
+Robots gain legal rights in several countries after secret summit (report 82),FAKE,FAKE,0.7422376275062561
+UN releases new report on global climate migration trends (report 83),REAL,FAKE,0.9691666960716248
+World’s largest offshore wind farm begins full operation (report 84),REAL,REAL,0.9889603853225708
+Global oil prices rise after unexpected supply disruption (report 85),REAL,REAL,0.9998832941055298
+New smartphone app claims to let users read minds (report 86),FAKE,FAKE,0.95106041431427
+Scientists confirm existence of invisible flying reptiles in the Himalayas (report 87),FAKE,FAKE,0.9913619160652161
+Archaeologists uncover ancient temple in South America (report 88),REAL,FAKE,0.996910035610199
+City government plans to replace all streetlights with glow-in-the-dark plants (report 89),FAKE,FAKE,0.9984298348426819
+International Space Station crew completes emergency repair (report 90),REAL,FAKE,0.9625218510627747
+WHO approves new malaria vaccine for global distribution (report 91),REAL,REAL,0.9791100025177002
+Ocean turns purple overnight due to mysterious phenomenon (report 92),FAKE,FAKE,0.9989521503448486
+International Space Station crew completes emergency repair (report 93),REAL,FAKE,0.9688976407051086
+Archaeologists uncover ancient temple in South America (report 94),REAL,FAKE,0.9979130625724792
+NASA announces discovery of water ice beneath lunar surface (report 95),REAL,FAKE,0.9962450861930847
+Ocean turns purple overnight due to mysterious phenomenon (report 96),FAKE,FAKE,0.9986190795898438
+"Major earthquake strikes coastal region, causing widespread damage (report 97)",REAL,FAKE,0.9653251767158508
+"Major earthquake strikes coastal region, causing widespread damage (report 98)",REAL,FAKE,0.63115394115448
+UN releases new report on global climate migration trends (report 99),REAL,FAKE,0.9965722560882568
+Company announces pill that instantly teaches any language (report 100),FAKE,FAKE,0.9978691339492798
