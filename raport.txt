@@ -1,0 +1,10 @@
+Dane wygenerowane przez Chata Gpt
+pierwsze dane 20 wierszy po 10 prawdziwych i fejkowych
+drugie dane 100 wierszy 45 fejkowych 55 prawdziwych
+
+Accuracy dla pierwszych danych: 65%
+Accuracy dla drugich danych: 60%
+ogólne Accuracy 62.5 %
+
+Więcej danych, bardziej jakościowych oraz lepiej nauczony model.
+

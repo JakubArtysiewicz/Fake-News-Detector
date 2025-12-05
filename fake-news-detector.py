@@ -64,7 +64,7 @@ def number_of_articles(articles_list):
         elif row[1][0] == 'REAL':
             real.append(index+1)
 
-    print(count, "\n", "Fake:\n", fake, "\n", "Real:\n", real)
+    print(count, "\n", "Fake:\n", fake, len(fake), "\n", "Real:\n", real, len(real))
 
 def evaluate_model(results_list, plot_file="model_results.png"):
 
